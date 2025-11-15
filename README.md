@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\hp\Documents\uniloge logo.jpg"" alt="Uniloge Maroc Logo" width="260">
+  <img src="https://github.com/AbdoulGafarouZOUNGRANA/estate-agency-system/blob/main/uniloge%20logo.jpg" alt="Uniloge Maroc Logo" width="260">
 </p>
 
 <h1 align="center">🏢 UNILOGE MAROC – Real Estate Agency Management System</h1>
