@@ -127,15 +127,32 @@ Another team member managed:
 
 ## 👨‍💻 My Contributions
 
-I personally worked on:
+As the **Project Leader**, I was responsible for supervising the entire workflow of the team and ensuring coordination between all modules (CRM, HR, invoicing, automations, forms, and database management). My main contributions include:
 
-**Odoo module customization**
- **Local server setup (Ubuntu)**
- **Database structuring (Excel )**
-**CRM configuration and opportunity matching**
-**SMTP integration for email sending**
-**Setting up the visit scheduling workflow**
-**Documentation & writing of the final project report**
+- 🧭 **Project Management & Team Coordination**  
+  I led the team of four members, assigned tasks, validated architectural decisions, and ensured coherence between all functional modules.
+
+- 🎨 **Branding & Visual Identity**  
+  I designed the **official logo of UNILOGE MAROC**, establishing the visual identity of the simulated company.
+
+- 🏗️ **Odoo ERP Customization**  
+  Customizing Odoo modules for CRM, opportunities, filtering, visit scheduling, and tenant–owner matching.
+
+- 🖥️ **Local Server Setup (windows)**  
+  Installation, configuration, and hosting of our local instance of Odoo for development and testing.
+
+- 🗂️ **Database Structuring & Centralization**  
+  I created a shared cloud-based Excel data system to allow remote collaboration and consistency across all data sources.
+
+- ✉️ **SMTP Email Integration**  
+  Configuration of email automation inside the system, enabling the sending of visit confirmations and internal notifications.
+
+- 📅 **Visit Scheduling Workflow**  
+  Using the Calendar module, I built the workflow connecting students, owners, and supervisors, with automated reminders.
+
+- 🧪 **Testing, Validation & Final Documentation**  
+  Debugging the full pipeline, writing the technical explanations, and contributing to the final academic report.
+
 
 
 ## 📘 Report
