@@ -43,7 +43,7 @@ The system integrates **Odoo ERP**, **HubSpot CRM**, **AppliCEO**, and a **centr
 |------|-----------------------|
 | ERP & Core System | **Odoo** |
 | CRM & Contact Management | **HubSpot CRM** |
-| Workflow Automation | **AppliCEO** |
+|  finance management| **AppliCEO** |
 | Data Storage | **Excel (shared online)** + **Local windows Server** |
 | SMTP & Communication | Email automation integration |
 | Matching & Opportunities | Odoo CRM + Custom filters |
